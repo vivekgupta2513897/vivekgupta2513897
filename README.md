@@ -37,7 +37,7 @@ I'm **Vivek Gupta**, an AI Engineer and Data Scientist deeply passionate about b
 
 - ✅ Build production-ready GenAI platforms  
 - ✅ Scale AI-first teams to solve real-world industry problems  
-- ✅ Share practical AI learning via my startup [**Edvion.ai**](https://medium.com/@edvion.ai)  
+- ✅ Share practical AI learning via my startup [**Edvion.ai**](https://edvion.vercel.app/)  
 - ✅ Contribute to open-source AI projects for global impact  
 
 ---
@@ -110,7 +110,7 @@ I'm **Vivek Gupta**, an AI Engineer and Data Scientist deeply passionate about b
 
 ### ✨ Fun Fact
 
-> “Don't compete with AI — **collaborate** with it. The most powerful teams will be humans + machines working in harmony.”
+> “I talk to AI more than I talk to humans and I’m not even mad about it.”
 
 ---
 

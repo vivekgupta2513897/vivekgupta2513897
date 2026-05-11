@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 😏 It’s VIVEK GUPTA. Watch closely.</h1>
+<h1 align="center">Hey It’s VIVEK GUPTA.</h1>
 <h3 align="center">🚀 AI Engineer | Generative AI Developer</h3>
 
 <p align="center">

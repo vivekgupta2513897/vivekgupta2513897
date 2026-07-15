@@ -1,120 +1,225 @@
-<h1 align="center">Hey It’s VIVEK GUPTA.</h1>
-<h3 align="center">🚀 AI Engineer | Generative AI Developer</h3>
+<h1 align="center">Hi 👋, I'm Vivek Gupta</h1>
+<h3 align="center">Generative AI Engineer | Agentic AI | Multi-Agent Systems | Voice AI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivekgupta2513897&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vivekgupta2513897&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-<img align="right" alt="AI Dev GIF" width="370" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif" />
+<img align="right" width="380" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif"/>
 
-### 🔍 About Me
+## 🚀 About Me
 
-I'm **Vivek Gupta**, an AI Engineer and Data Scientist deeply passionate about building innovative applications using **LLMs**, **Multi-Agent Systems**, and **Generative AI**.
+I'm a **Generative AI Engineer** passionate about building production-ready AI applications using **LLMs, Agentic AI, Multi-Agent Systems, RAG, and Voice AI**.
 
-💼 I specialize in:
+I enjoy designing intelligent AI workflows that automate complex business processes, from document understanding to AI-powered sales agents and conversational voice assistants.
 
-- 🤖 Autogen Multi-Agent Workflows  
-- 📚 RAG (Retrieval-Augmented Generation) Systems  
-- 🧠 LangChain Pipelines with OpenAI, Groq  
-- 📊 Streamlit Dashboards & Social Media Automation  
-
-🚀 Currently leading initiatives to **automate sales workflows using GenAI agents**, enabling businesses to streamline lead generation, outreach, and follow-ups.
-
----
-
-### 🔭 What I'm Working On
-
-- 🧠 A **multi-agent RAG chatbot** for interactive document Q&A  
-- 📈 Automating sales pipelines with AI-powered email, CRM, and insights  
-- 📱 AI tools to automate content creation across YouTube and Instagram  
-- 💬 Exploring voice agents & multi-modal LLMs for real-world business tasks  
+- 🔭 Building Enterprise AI Agents & Multi-Agent Workflows
+- 🤖 Developing Agentic AI applications using LangGraph & AutoGen
+- 📚 Building scalable RAG systems with Vector Databases
+- 🎙️ Exploring Voice AI using Twilio, Pipecat & Deepgram
+- ⚡ Automating business workflows using AI Agents
+- 🌱 Continuously learning the latest advancements in Generative AI
 
 ---
 
-### 🎯 Career Goals
+## 💼 Experience
 
-- ✅ Build production-ready GenAI platforms  
-- ✅ Scale AI-first teams to solve real-world industry problems  
-- ✅ Share practical AI learning via my startup [**Edvion.ai**](https://edvion.vercel.app/)  
-- ✅ Contribute to open-source AI projects for global impact  
+### 🚀 Generative AI Engineer
+- Multi-Agent Systems
+- Enterprise AI Automation
+- AI Workflow Orchestration
+- Voice AI
+- RAG Pipelines
+- LLM Applications
 
 ---
 
-### 🛠️ Core Tech Stack
+## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,opencv,seaborn,pandas,mysql,mongodb,flask,fastapi,selenium,git,github,vscode" />
-  <img src="https://skillicons.dev/icons?i=streamlit,zapier,vercel,netlify,azure" />
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql"/>
 </p>
 
-- 💡 **LLMs**: OpenAI, Groq, Cohere, HuggingFace  
-- 🔗 **Frameworks**: LangChain, Autogen, Streamlit, Flask  
-- 🗄️ **Databases**: FAISS, SQLite, MySQL, MongoDB  
-- ⚙️ **Automation**: Zapier, Python scripting  
-- 📊 **Visualization**: Plotly, Seaborn, Matplotlib  
+### AI & Machine Learning
+
+- OpenAI
+- Anthropic Claude
+- Google Gemini
+- Groq
+- Hugging Face
+- LangChain
+- LangGraph
+- AutoGen
+- LlamaIndex
+- CrewAI
+- MCP
+- RAG
+- AI Agents
+- Prompt Engineering
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
+</p>
+
+### Databases
+
+- PostgreSQL
+- MongoDB
+- MySQL
+- SQLite
+- FAISS
+- ChromaDB
+
+### Cloud & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,azure,vercel,git,github"/>
+</p>
+
+### AI Voice Stack
+
+- Twilio
+- Pipecat
+- Deepgram
+- ElevenLabs
+- WebSockets
+
+### Data & Visualization
+
+- Pandas
+- NumPy
+- Plotly
+- Matplotlib
+- Streamlit
 
 ---
 
-### 🌟 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 📚 **RAG-based Chatbot** | Upload PDFs, PPTs, DOCX and ask contextual questions |
-| 🛍️ **WhatsApp Chat Analyzer** | Analyze WhatsApp group chats for trends and patterns |
-| 📖 **Book Recommendation System** | Suggests books using KNN algorithm |
-| 📊 **Auto Analytics Dashboard** | Converts CSV into insights and graphs with Streamlit |
-| 🧪 **GenAI Brainstormer** | Agents that generate stock forecasts and insights |
+### 🤖 Enterprise Multi-Agent Platform
 
----
+AI workflow platform for building enterprise AI agents with visual orchestration.
 
-### ✍️ Blog Posts
-
-- 📘 [Why Statistics is Crucial in Data Science](https://medium.com/@edvion25/why-statistics-is-crucial-in-organizations-for-data-science-13e23867e577)  
-- 🤖 [Understanding AI Agents (Beginner to Advanced)](https://medium.com/@edvion25/understanding-ai-agents-from-beginner-to-advanced-bf9660aeef83)  
-- 💭 [LLMs & LAMs: The Future of AI](https://medium.com/@edvion25/understanding-llms-and-lams-the-future-of-ai-8bbf33236f00)
+**Tech**
+- LangGraph
+- AutoGen
+- FastAPI
+- PostgreSQL
+- React
 
 ---
 
-### 📊 GitHub Stats
+### 📚 Intelligent RAG System
+
+Production-ready document assistant supporting PDF, DOCX, PPTX, Excel and websites.
+
+**Features**
+
+- Semantic Search
+- Hybrid Retrieval
+- Source Citation
+- Multi-document Chat
+
+---
+
+### 🎙️ AI Voice Calling Agent
+
+Real-time AI phone agent capable of making and receiving calls.
+
+**Tech**
+
+- Twilio
+- Pipecat
+- Deepgram
+- OpenAI
+- FastAPI
+
+---
+
+### 📊 AI Dashboard Generator
+
+Upload CSV files and automatically generate interactive dashboards using AI agents.
+
+---
+
+### 🤖 AI Sales Automation
+
+Multi-agent pipeline that automates
+
+- Lead Research
+- Email Generation
+- CRM Updates
+- Follow-ups
+- Meeting Scheduling
+
+---
+
+## 📈 Currently Exploring
+
+- Agentic AI
+- MCP Servers
+- AI Operating Systems
+- Long-Term Memory for AI Agents
+- Multi-Agent Collaboration
+- Computer Use Agents
+- Browser Automation
+- AI Voice Infrastructure
+
+---
+
+## 📚 Latest Articles
+
+- 🤖 Understanding AI Agents
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ Building Enterprise AI Systems
+- 🎙️ Future of Voice AI
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekgupta2513897&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekgupta2513897&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgupta2513897&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=vivekgupta2513897&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekgupta2513897&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekgupta2513897&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/vivek-gupta-b75b67227" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/vivek.py.ai" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  <a href="https://medium.com/@edvion.ai" target="_blank">
-    <img src="https://skillicons.dev/icons?i=medium" alt="Medium" />
-  </a>
-  <a href="mailto:vivek2513897@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+<a href="https://linkedin.com/in/vivek-gupta-b75b67227">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/vivekgupta2513897">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://medium.com/@edvion25">
+<img src="https://skillicons.dev/icons?i=medium"/>
+</a>
+
+<a href="mailto:vivek2513897@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### ✨ Fun Fact
+## 💡 Fun Fact
 
-> “I talk to AI more than I talk to humans and I’m not even mad about it.”
+> "I enjoy building AI agents that automate real-world business workflows."
 
----
-
-<!--
-**vivekgupta2513897/vivekgupta2513897** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
+⭐ Always exploring the next generation of Agentic AI.
